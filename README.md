@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saic2323 alias Sai Charan
+- 👋 Hi, I’m @sai-charan-gk alias Sai Charan
 - 👀 I’m interested in ... Programming and learnig new stuff
 - 🌱 I’m currently working as Backend Developer
 - 👨‍💻 Worked using Java, Angular, Python, Docker, Azure, Azure DevOPS, Selenium, Flask.
